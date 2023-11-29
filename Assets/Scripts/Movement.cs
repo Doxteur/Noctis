@@ -26,6 +26,7 @@ public class Movement : MonoBehaviour
     public bool wallJumped;
     public bool wallSlide;
     public bool isDashing;
+    public bool canDoubleJump;
 
     [Space]
 
@@ -80,6 +81,7 @@ public class Movement : MonoBehaviour
         {
             wallJumped = false;
             GetComponent<BetterJumping>().enabled = true;
+            canDoubleJump = true;
         }
         
         if (wallGrab && !isDashing)
@@ -107,6 +109,7 @@ public class Movement : MonoBehaviour
         }
 
         if (!coll.onWall || coll.onGround)
+            
             wallSlide = false;
 
         if (Input.GetButtonDown("Jump"))
@@ -116,8 +119,16 @@ public class Movement : MonoBehaviour
             if (coll.onGround)
                 Jump(Vector2.up, false);
             if (coll.onWall && !coll.onGround)
+            {
+                canDoubleJump = true;
                 WallJump();
+            }
+            if(!coll.onGround && canDoubleJump && !coll.onWall) {
+                canDoubleJump = false;
+                Jump(Vector2.up, false);
+            }
         }
+
 
         if (Input.GetButtonDown("Fire1") && !hasDashed)
         {
