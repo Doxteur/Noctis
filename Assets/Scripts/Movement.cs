@@ -27,6 +27,7 @@ public class Movement : MonoBehaviour
     public bool wallSlide;
     public bool isDashing;
     public bool canDoubleJump;
+    public bool canJumpFromCliff = true;
 
     [Space]
 
@@ -63,6 +64,15 @@ public class Movement : MonoBehaviour
         Walk(dir);
         anim.SetHorizontalMovement(x, y, rb.velocity.y);
 
+
+        // If press R restart game
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            Application.LoadLevel(Application.loadedLevel);
+        }
+        
+
+
         if (coll.onWall && Input.GetButton("Fire3") && canMove)
         {
             if(side != coll.wallSide)
@@ -83,9 +93,10 @@ public class Movement : MonoBehaviour
             GetComponent<BetterJumping>().enabled = true;
             canDoubleJump = true;
         }
-        
-        if (wallGrab && !isDashing)
+     
+        if (wallGrab && !isDashing && !coll.aboutToLeaveWall)
         {
+           
             rb.gravityScale = 0;
             if(x > .2f || x < -.2f)
             rb.velocity = new Vector2(rb.velocity.x, 0);
@@ -93,6 +104,11 @@ public class Movement : MonoBehaviour
             float speedModifier = y > 0 ? .5f : 1;
 
             rb.velocity = new Vector2(rb.velocity.x, y * (speed * speedModifier));
+           
+        }else if (wallGrab && coll.aboutToLeaveWall && canJumpFromCliff)
+        {
+            rb.gravityScale = 3;
+            jumpFromCliff();
         }
         else
         {
@@ -277,6 +293,32 @@ public class Movement : MonoBehaviour
         }
     }
 
+    private void jumpFromCliff()
+    {
+        if ((side == 1 && coll.onRightWall) || side == -1 && !coll.onRightWall)
+        {
+            side *= -1;
+            anim.Flip(side);
+        }
+
+        StopCoroutine(DisableMovement(0));
+        StartCoroutine(DisableMovement(.1f));
+
+        // Jump to the opposite direction of the wall but diagonally up
+        Vector2 wallDir = coll.onRightWall ? Vector2.left + Vector2.up : Vector2.right + Vector2.up;
+
+        Jump((Vector2.up / 1.5f + wallDir / 1.5f), true);
+
+        StartCoroutine(cooldownJumpFromCliff(.5f));
+
+    }
+
+    IEnumerator cooldownJumpFromCliff(float time)
+    {
+        canJumpFromCliff = false;
+        yield return new WaitForSeconds(time);
+        canJumpFromCliff = true;
+    }
     private void Jump(Vector2 dir, bool wall)
     {
         slideParticle.transform.parent.localScale = new Vector3(ParticleSide(), 1, 1);

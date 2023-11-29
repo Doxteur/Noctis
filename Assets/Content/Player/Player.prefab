@@ -4790,7 +4790,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9633,7 +9632,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -9838,7 +9836,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -8.1, y: -2.19, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1061, y: 1.1061, z: 1.1061}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7048883170273295066}
@@ -9909,7 +9907,7 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: -0.33}
-  m_Size: {x: 0.86, y: 0.82}
+  m_Size: {x: 0.65, y: 0.83}
   m_Direction: 0
 --- !u!114 &7656280899788572700
 MonoBehaviour:
@@ -9934,6 +9932,7 @@ MonoBehaviour:
   wallJumped: 0
   wallSlide: 0
   isDashing: 0
+  canDoubleJump: 0
   side: 0
   dashParticle: {fileID: 4746215212021063119}
   jumpParticle: {fileID: 1280011711700924076}
@@ -9973,10 +9972,13 @@ MonoBehaviour:
   onRightWall: 0
   onLeftWall: 0
   wallSide: 0
+  aboutToLeaveWall: 0
   collisionRadius: 0.1
-  bottomOffset: {x: 0, y: -0.79}
-  rightOffset: {x: 0.5, y: -0.33}
-  leftOffset: {x: -0.5, y: -0.33}
+  bottomOffset: {x: 0, y: -0.86}
+  rightOffset: {x: 0.36, y: -0.33}
+  leftOffset: {x: -0.39, y: -0.33}
+  rightcliffCheckerOffset: {x: 0.36, y: -0.12}
+  leftcliffCheckerOffset: {x: -0.39, y: -0.12}
 --- !u!1 &8587552901105870082
 GameObject:
   m_ObjectHideFlags: 0
@@ -14858,7 +14860,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19759,7 +19760,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
