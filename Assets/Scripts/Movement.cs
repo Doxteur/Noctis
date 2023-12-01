@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
+using static System.Runtime.CompilerServices.RuntimeHelpers;
 
 public class Movement : MonoBehaviour
 {
@@ -27,7 +28,7 @@ public class Movement : MonoBehaviour
     public bool wallSlide;
     public bool isDashing;
     public bool canDoubleJump;
-    public bool canJumpFromCliff = true;
+    public bool canJumpFromCliff;
 
     [Space]
 
@@ -55,6 +56,7 @@ public class Movement : MonoBehaviour
     [Obsolete]
     void Update()
     {
+
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Vertical");
         float xRaw = Input.GetAxisRaw("Horizontal");
@@ -196,7 +198,8 @@ public class Movement : MonoBehaviour
     private void Dash(float x, float y)
     {
         Camera.main.transform.DOComplete();
-        Camera.main.transform.DOShakePosition(.2f, .5f, 14, 90, false, true);
+        //Camera.main.transform.DOShakePosition(.2f, .5f, 14, 90, false, true);
+
         FindObjectOfType<RippleEffect>().Emit(Camera.main.WorldToViewportPoint(transform.position));
 
         hasDashed = true;
