@@ -188,7 +188,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Interrogation In (24x8)_0: -65909145707610360
+      Interrogation In (24x8)_1: -2514847765810138361
+      Interrogation In (24x8)_2: -4179809047678340245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
