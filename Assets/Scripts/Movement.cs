@@ -33,7 +33,7 @@ public class Movement : MonoBehaviour
     [Space]
 
     private bool groundTouch;
-    private bool hasDashed;
+    public bool hasDashed;
 
     public int side = 1;
 
