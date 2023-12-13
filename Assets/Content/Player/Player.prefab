@@ -9821,7 +9821,7 @@ GameObject:
   - component: {fileID: 2764713792414126388}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9882,7 +9882,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 5369a2c816cae964691678ccf2d4093f, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -9906,8 +9906,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.33}
-  m_Size: {x: 0.65, y: 0.83}
+  m_Offset: {x: -0.0012730315, y: -0.31094408}
+  m_Size: {x: 0.5201547, y: 0.7918881}
   m_Direction: 0
 --- !u!114 &7656280899788572700
 MonoBehaviour:
@@ -9933,6 +9933,7 @@ MonoBehaviour:
   wallSlide: 0
   isDashing: 0
   canDoubleJump: 0
+  canJumpFromCliff: 1
   side: 0
   dashParticle: {fileID: 4746215212021063119}
   jumpParticle: {fileID: 1280011711700924076}
@@ -9973,12 +9974,13 @@ MonoBehaviour:
   onLeftWall: 0
   wallSide: 0
   aboutToLeaveWall: 0
-  collisionRadius: 0.1
-  bottomOffset: {x: 0, y: -0.86}
+  collisionRadius: 0.09
+  bottomOffset: {x: 0, y: -0.8}
   rightOffset: {x: 0.36, y: -0.33}
   leftOffset: {x: -0.39, y: -0.33}
   rightcliffCheckerOffset: {x: 0.36, y: -0.12}
   leftcliffCheckerOffset: {x: -0.39, y: -0.12}
+  bottomWidth: {x: 0.56, y: 0}
 --- !u!1 &8587552901105870082
 GameObject:
   m_ObjectHideFlags: 0
