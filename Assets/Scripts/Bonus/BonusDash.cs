@@ -30,9 +30,9 @@ public class BonusDash : MonoBehaviour
             collision.GetComponent<Movement>().hasDashed = false;
 
             gameObject.SetActive(false);
+            Destroy(gameObject);
             StartCoroutine(DisableBonusDash(5f));
         }
-
     }
 
 
