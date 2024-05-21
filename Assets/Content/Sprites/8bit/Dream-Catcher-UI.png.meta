@@ -1,0 +1,5049 @@
+fileFormatVersion: 2
+guid: 9448dd4eb1c5229439e7510aba5821b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 697806218608750304
+    second: Dream-Catcher-UI_0
+  - first:
+      213: 3936087979753131255
+    second: Dream-Catcher-UI_1
+  - first:
+      213: -3201567803696751386
+    second: Dream-Catcher-UI_2
+  - first:
+      213: 4098521637841459240
+    second: Dream-Catcher-UI_3
+  - first:
+      213: 1754840642727275067
+    second: Dream-Catcher-UI_4
+  - first:
+      213: 4753473719056231637
+    second: Dream-Catcher-UI_5
+  - first:
+      213: 6042062878512544886
+    second: Dream-Catcher-UI_6
+  - first:
+      213: -6257514887265560471
+    second: Dream-Catcher-UI_7
+  - first:
+      213: 8930067211406205846
+    second: Dream-Catcher-UI_8
+  - first:
+      213: -5937128905846137443
+    second: Dream-Catcher-UI_9
+  - first:
+      213: 548396060958215149
+    second: Dream-Catcher-UI_10
+  - first:
+      213: -6472527555357915434
+    second: Dream-Catcher-UI_11
+  - first:
+      213: -1310030934592854209
+    second: Dream-Catcher-UI_12
+  - first:
+      213: 1487220036824818908
+    second: Dream-Catcher-UI_13
+  - first:
+      213: -4429016058825369843
+    second: Dream-Catcher-UI_14
+  - first:
+      213: -532692471811179035
+    second: Dream-Catcher-UI_15
+  - first:
+      213: 5531093657410975829
+    second: Dream-Catcher-UI_16
+  - first:
+      213: 6899670479606351168
+    second: Dream-Catcher-UI_17
+  - first:
+      213: -8169166850502730913
+    second: Dream-Catcher-UI_18
+  - first:
+      213: 6793652412564956520
+    second: Dream-Catcher-UI_19
+  - first:
+      213: -7178152005760453624
+    second: Dream-Catcher-UI_20
+  - first:
+      213: -5085246333743692369
+    second: Dream-Catcher-UI_21
+  - first:
+      213: -8764651174987498744
+    second: Dream-Catcher-UI_22
+  - first:
+      213: -131798440909456403
+    second: Dream-Catcher-UI_23
+  - first:
+      213: -1055919616239582077
+    second: Dream-Catcher-UI_24
+  - first:
+      213: 8327318938421240957
+    second: Dream-Catcher-UI_25
+  - first:
+      213: 5774960878219768029
+    second: Dream-Catcher-UI_26
+  - first:
+      213: -1833530905023780961
+    second: Dream-Catcher-UI_27
+  - first:
+      213: -9176121807617436809
+    second: Dream-Catcher-UI_28
+  - first:
+      213: 5853821208347124161
+    second: Dream-Catcher-UI_29
+  - first:
+      213: -7621863786638109254
+    second: Dream-Catcher-UI_30
+  - first:
+      213: 2214968292126813826
+    second: Dream-Catcher-UI_31
+  - first:
+      213: 4548214944847010045
+    second: Dream-Catcher-UI_32
+  - first:
+      213: -3669174025457508533
+    second: Dream-Catcher-UI_33
+  - first:
+      213: -7563198003985390818
+    second: Dream-Catcher-UI_34
+  - first:
+      213: 6511572106137897180
+    second: Dream-Catcher-UI_35
+  - first:
+      213: 2900408292018084846
+    second: Dream-Catcher-UI_36
+  - first:
+      213: -2479108381912984525
+    second: Dream-Catcher-UI_37
+  - first:
+      213: -8905332995058824810
+    second: Dream-Catcher-UI_38
+  - first:
+      213: -8053635085967390067
+    second: Dream-Catcher-UI_39
+  - first:
+      213: 7771193697669334816
+    second: Dream-Catcher-UI_40
+  - first:
+      213: -5937390114099141008
+    second: Dream-Catcher-UI_41
+  - first:
+      213: 586960204124669587
+    second: Dream-Catcher-UI_42
+  - first:
+      213: -4041198844606504170
+    second: Dream-Catcher-UI_43
+  - first:
+      213: 7966635998001367183
+    second: Dream-Catcher-UI_44
+  - first:
+      213: 4699333010761932549
+    second: Dream-Catcher-UI_45
+  - first:
+      213: 1052569644971865099
+    second: Dream-Catcher-UI_46
+  - first:
+      213: 5943470311200566090
+    second: Dream-Catcher-UI_47
+  - first:
+      213: -634323809210545283
+    second: Dream-Catcher-UI_48
+  - first:
+      213: -9217947867321669880
+    second: Dream-Catcher-UI_49
+  - first:
+      213: -7684734680094350638
+    second: Dream-Catcher-UI_50
+  - first:
+      213: -8706754203569594847
+    second: Dream-Catcher-UI_51
+  - first:
+      213: -5971752489324423795
+    second: Dream-Catcher-UI_52
+  - first:
+      213: -6576112855147517091
+    second: Dream-Catcher-UI_53
+  - first:
+      213: -6740543779520968409
+    second: Dream-Catcher-UI_54
+  - first:
+      213: -5007578570581393471
+    second: Dream-Catcher-UI_55
+  - first:
+      213: 3305834073656445370
+    second: Dream-Catcher-UI_56
+  - first:
+      213: -6282921764057078199
+    second: Dream-Catcher-UI_57
+  - first:
+      213: -7312110424112419144
+    second: Dream-Catcher-UI_58
+  - first:
+      213: -2059223976282975647
+    second: Dream-Catcher-UI_59
+  - first:
+      213: -4987407310254661503
+    second: Dream-Catcher-UI_60
+  - first:
+      213: 5715971975619329130
+    second: Dream-Catcher-UI_61
+  - first:
+      213: -6674958322967242838
+    second: Dream-Catcher-UI_62
+  - first:
+      213: -7910594541659927645
+    second: Dream-Catcher-UI_63
+  - first:
+      213: 263409485307893220
+    second: Dream-Catcher-UI_64
+  - first:
+      213: -946240200898069104
+    second: Dream-Catcher-UI_65
+  - first:
+      213: 3067854106671062497
+    second: Dream-Catcher-UI_66
+  - first:
+      213: 9165343578832875102
+    second: Dream-Catcher-UI_67
+  - first:
+      213: 4233741735235033971
+    second: Dream-Catcher-UI_68
+  - first:
+      213: -7474702027914445154
+    second: Dream-Catcher-UI_69
+  - first:
+      213: 6565402651894118274
+    second: Dream-Catcher-UI_70
+  - first:
+      213: 5191922545610519556
+    second: Dream-Catcher-UI_71
+  - first:
+      213: 8583112752465017793
+    second: Dream-Catcher-UI_72
+  - first:
+      213: 3339284645417649194
+    second: Dream-Catcher-UI_73
+  - first:
+      213: 9324574461722072
+    second: Dream-Catcher-UI_74
+  - first:
+      213: 9196617934438093236
+    second: Dream-Catcher-UI_75
+  - first:
+      213: -7886248756114002386
+    second: Dream-Catcher-UI_76
+  - first:
+      213: -5158416042495214306
+    second: Dream-Catcher-UI_77
+  - first:
+      213: 1632344065154747082
+    second: Dream-Catcher-UI_78
+  - first:
+      213: 2657770639166177210
+    second: Dream-Catcher-UI_79
+  - first:
+      213: -3102602098740760407
+    second: Dream-Catcher-UI_80
+  - first:
+      213: 746197768689209044
+    second: Dream-Catcher-UI_81
+  - first:
+      213: -4018116078018126290
+    second: Dream-Catcher-UI_82
+  - first:
+      213: -1585167900607448460
+    second: Dream-Catcher-UI_83
+  - first:
+      213: 817853490168181060
+    second: Dream-Catcher-UI_84
+  - first:
+      213: -2825527488704929521
+    second: Dream-Catcher-UI_85
+  - first:
+      213: 2471604476961134539
+    second: Dream-Catcher-UI_86
+  - first:
+      213: 841146259057949279
+    second: Dream-Catcher-UI_87
+  - first:
+      213: -4619036452476749894
+    second: Dream-Catcher-UI_88
+  - first:
+      213: 8060006965274058068
+    second: Dream-Catcher-UI_89
+  - first:
+      213: 1798408577274388001
+    second: Dream-Catcher-UI_90
+  - first:
+      213: 7423521911588654835
+    second: Dream-Catcher-UI_91
+  - first:
+      213: -17924763025003248
+    second: Dream-Catcher-UI_92
+  - first:
+      213: -185585620532963658
+    second: Dream-Catcher-UI_93
+  - first:
+      213: 1030155163647326833
+    second: Dream-Catcher-UI_94
+  - first:
+      213: 6661597099816719064
+    second: Dream-Catcher-UI_95
+  - first:
+      213: 848351568033232109
+    second: Dream-Catcher-UI_96
+  - first:
+      213: -4441056762752945212
+    second: Dream-Catcher-UI_97
+  - first:
+      213: -7074419872262819197
+    second: Dream-Catcher-UI_98
+  - first:
+      213: 6869003052355113976
+    second: Dream-Catcher-UI_99
+  - first:
+      213: 2979318040367196980
+    second: Dream-Catcher-UI_100
+  - first:
+      213: 6666276756027904525
+    second: Dream-Catcher-UI_101
+  - first:
+      213: 2889725142612542074
+    second: Dream-Catcher-UI_102
+  - first:
+      213: -6214802549911914541
+    second: Dream-Catcher-UI_103
+  - first:
+      213: -8867805414030225180
+    second: Dream-Catcher-UI_104
+  - first:
+      213: 5656715811918592406
+    second: Dream-Catcher-UI_105
+  - first:
+      213: 7598335914826057389
+    second: Dream-Catcher-UI_106
+  - first:
+      213: -7612219286735225246
+    second: Dream-Catcher-UI_107
+  - first:
+      213: -1697281622915389464
+    second: Dream-Catcher-UI_108
+  - first:
+      213: 1845228949509559781
+    second: Dream-Catcher-UI_109
+  - first:
+      213: 3204456767782211335
+    second: Dream-Catcher-UI_110
+  - first:
+      213: 8491050612471490869
+    second: Dream-Catcher-UI_111
+  - first:
+      213: -2679766201765449484
+    second: Dream-Catcher-UI_112
+  - first:
+      213: -2703203336483365451
+    second: Dream-Catcher-UI_113
+  - first:
+      213: 2677441431288864928
+    second: Dream-Catcher-UI_114
+  - first:
+      213: -8794779754104499416
+    second: Dream-Catcher-UI_115
+  - first:
+      213: 8095309104473293742
+    second: Dream-Catcher-UI_116
+  - first:
+      213: -4884879459195723585
+    second: Dream-Catcher-UI_117
+  - first:
+      213: -5077812389651290958
+    second: Dream-Catcher-UI_118
+  - first:
+      213: -3917568350195402626
+    second: Dream-Catcher-UI_119
+  - first:
+      213: 7382501458972200836
+    second: Dream-Catcher-UI_120
+  - first:
+      213: 4204187175128658117
+    second: Dream-Catcher-UI_121
+  - first:
+      213: -3143165790679337176
+    second: Dream-Catcher-UI_122
+  - first:
+      213: -6698882922840962569
+    second: Dream-Catcher-UI_123
+  - first:
+      213: -6246861819620899942
+    second: Dream-Catcher-UI_124
+  - first:
+      213: -1447304625596263889
+    second: Dream-Catcher-UI_125
+  - first:
+      213: 1722105143984342581
+    second: Dream-Catcher-UI_126
+  - first:
+      213: 5081857373447417605
+    second: Dream-Catcher-UI_127
+  - first:
+      213: 3424991947285423112
+    second: Dream-Catcher-UI_128
+  - first:
+      213: -7669671226385987204
+    second: Dream-Catcher-UI_129
+  - first:
+      213: -6448410060769814670
+    second: Dream-Catcher-UI_130
+  - first:
+      213: -6485113179124038288
+    second: Dream-Catcher-UI_131
+  - first:
+      213: 374962571391301082
+    second: Dream-Catcher-UI_132
+  - first:
+      213: 3993749639268084388
+    second: Dream-Catcher-UI_133
+  - first:
+      213: -6726412127851978853
+    second: Dream-Catcher-UI_134
+  - first:
+      213: -1480051803243381601
+    second: Dream-Catcher-UI_135
+  - first:
+      213: -8488340826330130301
+    second: Dream-Catcher-UI_136
+  - first:
+      213: 1346050138688358978
+    second: Dream-Catcher-UI_137
+  - first:
+      213: 8522761124062988344
+    second: Dream-Catcher-UI_138
+  - first:
+      213: -9106898903058493271
+    second: Dream-Catcher-UI_139
+  - first:
+      213: -7089822054708569942
+    second: Dream-Catcher-UI_140
+  - first:
+      213: -8343063082084706788
+    second: Dream-Catcher-UI_141
+  - first:
+      213: -6772697816141316684
+    second: Dream-Catcher-UI_142
+  - first:
+      213: -4154118538943804575
+    second: Dream-Catcher-UI_143
+  - first:
+      213: -1858006491551047691
+    second: Dream-Catcher-UI_144
+  - first:
+      213: -472694080310532372
+    second: Dream-Catcher-UI_145
+  - first:
+      213: 2988218395896514244
+    second: Dream-Catcher-UI_146
+  - first:
+      213: 4230351591490202351
+    second: Dream-Catcher-UI_147
+  - first:
+      213: -7645754678445450858
+    second: Dream-Catcher-UI_148
+  - first:
+      213: -3050270262306765771
+    second: Dream-Catcher-UI_149
+  - first:
+      213: -8887341302963603838
+    second: Dream-Catcher-UI_150
+  - first:
+      213: -2547512182264260990
+    second: Dream-Catcher-UI_151
+  - first:
+      213: -4194202549313619467
+    second: Dream-Catcher-UI_152
+  - first:
+      213: -9177532464146253872
+    second: Dream-Catcher-UI_153
+  - first:
+      213: -7378776128561667235
+    second: Dream-Catcher-UI_154
+  - first:
+      213: 4034613250249198105
+    second: Dream-Catcher-UI_155
+  - first:
+      213: -1382085398934460579
+    second: Dream-Catcher-UI_156
+  - first:
+      213: 418910120017690607
+    second: Dream-Catcher-UI_157
+  - first:
+      213: 6953919403769784143
+    second: Dream-Catcher-UI_158
+  - first:
+      213: 9159646718350985601
+    second: Dream-Catcher-UI_159
+  - first:
+      213: 7694167015813621961
+    second: Dream-Catcher-UI_160
+  - first:
+      213: 1473931986124171639
+    second: Dream-Catcher-UI_161
+  - first:
+      213: 2465685216793140232
+    second: Dream-Catcher-UI_162
+  - first:
+      213: -2294394353729813644
+    second: Dream-Catcher-UI_163
+  - first:
+      213: 2965516152153362239
+    second: Dream-Catcher-UI_164
+  - first:
+      213: -8326085635817972951
+    second: Dream-Catcher-UI_165
+  - first:
+      213: -5814944287094004838
+    second: Dream-Catcher-UI_166
+  - first:
+      213: -8919738032761750347
+    second: Dream-Catcher-UI_167
+  - first:
+      213: 202852924080076344
+    second: Dream-Catcher-UI_168
+  - first:
+      213: -628445039456972462
+    second: Dream-Catcher-UI_169
+  - first:
+      213: 3502562688200475208
+    second: Dream-Catcher-UI_170
+  - first:
+      213: 3764031860297569430
+    second: Dream-Catcher-UI_171
+  - first:
+      213: 6463374600771027992
+    second: Dream-Catcher-UI_172
+  - first:
+      213: -797914597572579535
+    second: Dream-Catcher-UI_173
+  - first:
+      213: 1025578508009183670
+    second: Dream-Catcher-UI_174
+  - first:
+      213: 5939137250706164086
+    second: Dream-Catcher-UI_175
+  - first:
+      213: 1111174331372649408
+    second: Dream-Catcher-UI_176
+  - first:
+      213: 1167101874072330647
+    second: Dream-Catcher-UI_177
+  - first:
+      213: 6517505799315120418
+    second: Dream-Catcher-UI_178
+  - first:
+      213: 272878334097159147
+    second: Dream-Catcher-UI_179
+  - first:
+      213: -3800428457622043529
+    second: Dream-Catcher-UI_180
+  - first:
+      213: -3640811433951943115
+    second: Dream-Catcher-UI_181
+  - first:
+      213: -417177807289930454
+    second: Dream-Catcher-UI_182
+  - first:
+      213: -1857512885029724560
+    second: Dream-Catcher-UI_183
+  - first:
+      213: -1546858514465973242
+    second: Dream-Catcher-UI_184
+  - first:
+      213: 2440243495959216624
+    second: Dream-Catcher-UI_185
+  - first:
+      213: 7229568721666935933
+    second: Dream-Catcher-UI_186
+  - first:
+      213: -4801692750387285756
+    second: Dream-Catcher-UI_187
+  - first:
+      213: 6001395519312991543
+    second: Dream-Catcher-UI_188
+  - first:
+      213: -3081654780854703916
+    second: Dream-Catcher-UI_189
+  - first:
+      213: -4769664867316304458
+    second: Dream-Catcher-UI_190
+  - first:
+      213: 6448696112425609158
+    second: Dream-Catcher-UI_191
+  - first:
+      213: -2492060964684823463
+    second: Dream-Catcher-UI_192
+  - first:
+      213: 5429698083246724466
+    second: Dream-Catcher-UI_193
+  - first:
+      213: 1335314542106978748
+    second: Dream-Catcher-UI_194
+  - first:
+      213: 6132237343330707511
+    second: Dream-Catcher-UI_195
+  - first:
+      213: 5561572318866355403
+    second: Dream-Catcher-UI_196
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeab360f0b1fa900800000000000000
+      internalID: 697806218608750304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcceddc92bcf9630800000000000000
+      internalID: 3936087979753131255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecd3509b0fb193d0800000000000000
+      internalID: -3201567803696751386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828dac7f6bfd0e830800000000000000
+      internalID: 4098521637841459240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a6d2b54427a5810800000000000000
+      internalID: 1754840642727275067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc6089992bb7f140800000000000000
+      internalID: 4753473719056231637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c70500d28b9d350800000000000000
+      internalID: 6042062878512544886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96851df1d57d829a0800000000000000
+      internalID: -6257514887265560471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693ea34b0d8fdeb70800000000000000
+      internalID: 8930067211406205846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d565567b41b9da0800000000000000
+      internalID: -5937128905846137443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb43a9df4b4c9700800000000000000
+      internalID: 548396060958215149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6c6f73b76fc26a0800000000000000
+      internalID: -6472527555357915434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37e1da4ec5d1dde0800000000000000
+      internalID: -1310030934592854209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd469cd6ebaa3a410800000000000000
+      internalID: 1487220036824818908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0796354c59f882c0800000000000000
+      internalID: -4429016058825369843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7b2be40f7b98f0800000000000000
+      internalID: -532692471811179035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b56d506462cc40800000000000000
+      internalID: 5531093657410975829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0458f24cebd80cf50800000000000000
+      internalID: 6899670479606351168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b53e4180a41ae80800000000000000
+      internalID: -8169166850502730913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e86affd6e74e50800000000000000
+      internalID: 6793652412564956520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f3e048c4126c90800000000000000
+      internalID: -7178152005760453624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa589d9f6639d69b0800000000000000
+      internalID: -5085246333743692369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf8a68134bd5680800000000000000
+      internalID: -8764651174987498744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb34ab2402cb2ef0800000000000000
+      internalID: -131798440909456403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 89
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844caa14be9851f0800000000000000
+      internalID: -1055919616239582077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 121
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742bf75474909370800000000000000
+      internalID: 8327318938421240957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0311a5258c42050800000000000000
+      internalID: 5774960878219768029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f976b593b5dfd86e0800000000000000
+      internalID: -1833530905023780961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7735f3945ddd7a080800000000000000
+      internalID: -9176121807617436809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1ad26cf53fc3150800000000000000
+      internalID: 5853821208347124161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59507b443b93690800000000000000
+      internalID: -7621863786638109254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ee8f02de52dbe10800000000000000
+      internalID: 2214968292126813826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89ab515618e1f30800000000000000
+      internalID: 4548214944847010045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fd389f9a9741dc0800000000000000
+      internalID: -3669174025457508533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13e186ac7f1a0790800000000000000
+      internalID: -7563198003985390818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd801bba450cd5a50800000000000000
+      internalID: 6511572106137897180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebd55d79f1504820800000000000000
+      internalID: 2900408292018084846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3341260cf00789dd0800000000000000
+      internalID: -2479108381912984525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69904fec2d6e96480800000000000000
+      internalID: -8905332995058824810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a8a4e2f8dbb3090800000000000000
+      internalID: -8053635085967390067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_40
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027c5569e73d8db60800000000000000
+      internalID: 7771193697669334816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076643c16272a9da0800000000000000
+      internalID: -5937390114099141008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3964420223d452800800000000000000
+      internalID: 586960204124669587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a280ef07cae7c0800000000000000
+      internalID: -4041198844606504170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8806bb2b3d2f8e60800000000000000
+      internalID: 7966635998001367183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f5bb3a972673140800000000000000
+      internalID: 4699333010761932549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0438ede38a7b9e00800000000000000
+      internalID: 1052569644971865099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba03812c27b7250800000000000000
+      internalID: 5943470311200566090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bce673bdd6237f0800000000000000
+      internalID: -634323809210545283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807e832e045431080800000000000000
+      internalID: -9217947867321669880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e9df16865a5590800000000000000
+      internalID: -7684734680094350638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5895ae256b2780800000000000000
+      internalID: -8706754203569594847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85534b20c2102da0800000000000000
+      internalID: -5971752489324423795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6d023334fcb4a0800000000000000
+      internalID: -6576112855147517091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7290fac3527c472a0800000000000000
+      internalID: -6740543779520968409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf33a342d1818ab0800000000000000
+      internalID: -5007578570581393471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ccae239ea0ed20800000000000000
+      internalID: 3305834073656445370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946aec5a1f39ec8a0800000000000000
+      internalID: -6282921764057078199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be295c7f4a268a90800000000000000
+      internalID: -7312110424112419144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1629fac24ba2c63e0800000000000000
+      internalID: -2059223976282975647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a51ac97b29cab0800000000000000
+      internalID: -4987407310254661503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cb0e03a36335f40800000000000000
+      internalID: 5715971975619329130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7100d45c8cd53a0800000000000000
+      internalID: -6674958322967242838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab473e2d2ce73290800000000000000
+      internalID: -7910594541659927645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5de320881d7a300800000000000000
+      internalID: 263409485307893220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09db649fc874ed2f0800000000000000
+      internalID: -946240200898069104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 88
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1ada4e05339a20800000000000000
+      internalID: 3067854106671062497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eadb4cc67d13f70800000000000000
+      internalID: 9165343578832875102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b1e674da541ca30800000000000000
+      internalID: 4233741735235033971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e7448bb16844890800000000000000
+      internalID: -7474702027914445154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2877e894deefc1b50800000000000000
+      internalID: 6565402651894118274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404f4781c0a6d0840800000000000000
+      internalID: 5191922545610519556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7dc5b2975d1770800000000000000
+      internalID: 8583112752465017793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 88
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24090651b5875e20800000000000000
+      internalID: 3339284645417649194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddf87ca6a0212000800000000000000
+      internalID: 9324574461722072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b15b2d1943f0af70800000000000000
+      internalID: 9196617934438093236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e65791a8a6e8290800000000000000
+      internalID: -7886248756114002386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d756790ff9968b0800000000000000
+      internalID: -5158416042495214306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca04ca574047a610800000000000000
+      internalID: 1632344065154747082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf76f9905c42e420800000000000000
+      internalID: 2657770639166177210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0fc2954d751f4d0800000000000000
+      internalID: -3102602098740760407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dec8e6cae60b5a00800000000000000
+      internalID: 746197768689209044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e917747b8cc38c0800000000000000
+      internalID: -4018116078018126290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47af0f6613a500ae0800000000000000
+      internalID: -1585167900607448460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b9c78a69995b00800000000000000
+      internalID: 817853490168181060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0124a428b5b9c8d0800000000000000
+      internalID: -2825527488704929521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7988a3d27ec4220800000000000000
+      internalID: 2471604476961134539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a3c47e01a5cab00800000000000000
+      internalID: 841146259057949279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_88
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7fa85b1d2e5efb0800000000000000
+      internalID: -4619036452476749894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d955491a5eadf60800000000000000
+      internalID: 8060006965274058068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_90
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e9479921b35f810800000000000000
+      internalID: 1798408577274388001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe029ad8d5a50760800000000000000
+      internalID: 7423521911588654835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2633e58150cff0800000000000000
+      internalID: -17924763025003248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b656b48cdaac6df0800000000000000
+      internalID: -185585620532963658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17abbb0d9a8db4e00800000000000000
+      internalID: 1030155163647326833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_95
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d21953844fb27c50800000000000000
+      internalID: 6661597099816719064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de43441a143f5cb00800000000000000
+      internalID: 848351568033232109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b3cc67623e52c0800000000000000
+      internalID: -4441056762752945212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3827fc9ab9c92dd90800000000000000
+      internalID: -7074419872262819197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f353b0f1e9935f50800000000000000
+      internalID: 6869003052355113976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43beffcf8f9a85920800000000000000
+      internalID: 2979318040367196980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_101
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d029c71e36f538c50800000000000000
+      internalID: 6666276756027904525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728fefe4bd5a1820800000000000000
+      internalID: 2889725142612542074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7fe4f120690c9a0800000000000000
+      internalID: -6214802549911914541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e05177a5f93fe480800000000000000
+      internalID: -8867805414030225180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6993eb47f01b08e40800000000000000
+      internalID: 5656715811918592406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_106
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cc4fb146b27960800000000000000
+      internalID: 7598335914826057389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_107
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ef4c5d3e6fb5690800000000000000
+      internalID: -7612219286735225246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e764564b5b0278e0800000000000000
+      internalID: -1697281622915389464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_109
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5d8c004f19b9910800000000000000
+      internalID: 1845228949509559781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_110
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f41cdc374887c20800000000000000
+      internalID: 3204456767782211335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539e9366b8546d570800000000000000
+      internalID: 8491050612471490869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03ca666de8fcad0800000000000000
+      internalID: -2679766201765449484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd124d33ea4c7ad0800000000000000
+      internalID: -2703203336483365451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0e2eacbce282520800000000000000
+      internalID: 2677441431288864928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823ddce096aa2f580800000000000000
+      internalID: -8794779754104499416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3cd1f5db0585070800000000000000
+      internalID: 8095309104473293742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_117
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb06908530c653cb0800000000000000
+      internalID: -4884879459195723585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4e1c6f88cf789b0800000000000000
+      internalID: -5077812389651290958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e783a47775002a9c0800000000000000
+      internalID: -3917568350195402626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_120
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f47d776f9e37660800000000000000
+      internalID: 7382501458972200836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_121
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0fbc606f5485a30800000000000000
+      internalID: 4204187175128658117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f568dd5b3164d0800000000000000
+      internalID: -3143165790679337176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f942205979c803a0800000000000000
+      internalID: -6698882922840962569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93cb88b540be49a0800000000000000
+      internalID: -6246861819620899942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f221e857c142aebe0800000000000000
+      internalID: -1447304625596263889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_126
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5364f0d118526e710800000000000000
+      internalID: 1722105143984342581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_127
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f68873b52668640800000000000000
+      internalID: 5081857373447417605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80465889704088f20800000000000000
+      internalID: 3424991947285423112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c798a3fb7aadf8590800000000000000
+      internalID: -7669671226385987204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27792c10735a286a0800000000000000
+      internalID: -6448410060769814670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0758b165cef3006a0800000000000000
+      internalID: -6485113179124038288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad578d7d872243500800000000000000
+      internalID: 374962571391301082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa2b6a1326ac6730800000000000000
+      internalID: 3993749639268084388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_134
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fd08acecbf6a2a0800000000000000
+      internalID: -6726412127851978853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_135
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c70820abcc57be0800000000000000
+      internalID: -1480051803243381601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388952addfa533a80800000000000000
+      internalID: -8488340826330130301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_137
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a826e28712ea210800000000000000
+      internalID: 1346050138688358978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388849361ee64670800000000000000
+      internalID: 8522761124062988344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_139
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ddc5b2bbcd9180800000000000000
+      internalID: -9106898903058493271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 57
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89d5c9764eb9d90800000000000000
+      internalID: -7089822054708569942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c165aad845c773c80800000000000000
+      internalID: -8343063082084706788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd35d1383b8202a0800000000000000
+      internalID: -6772697816141316684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bc363c23b9956c0800000000000000
+      internalID: -4154118538943804575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_144
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffdab8a0f80736e0800000000000000
+      internalID: -1858006491551047691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_145
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce629a70d37a079f0800000000000000
+      internalID: -472694080310532372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_146
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c603be7cc8487920800000000000000
+      internalID: 2988218395896514244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_147
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea28cdeb5a35ba30800000000000000
+      internalID: 4230351591490202351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_148
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6995a7ff0a2d4e590800000000000000
+      internalID: -7645754678445450858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_149
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53484428b534ba5d0800000000000000
+      internalID: -3050270262306765771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_150
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286723f0c22d9a480800000000000000
+      internalID: -8887341302963603838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_151
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869823ea2b65acd0800000000000000
+      internalID: -2547512182264260990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9bf14d0033bc5c0800000000000000
+      internalID: -4194202549313619467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_153
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 40
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d772f739dad2a080800000000000000
+      internalID: -9177532464146253872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_154
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 8
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5323fb9432599990800000000000000
+      internalID: -7378776128561667235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a0033ff53ddf730800000000000000
+      internalID: 4034613250249198105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_156
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e14bf6a8d1dce0800000000000000
+      internalID: -1382085398934460579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_157
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 40
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef7870e88440d500800000000000000
+      internalID: 418910120017690607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_158
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47e462bad8418060800000000000000
+      internalID: 6953919403769784143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_159
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 33
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1890263192a9d1f70800000000000000
+      internalID: 9159646718350985601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_160
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8291ca22c27ca60800000000000000
+      internalID: 7694167015813621961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77964080555747410800000000000000
+      internalID: 1473931986124171639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_162
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c13e214afd73220800000000000000
+      internalID: 2465685216793140232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_163
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c543dd7ca820e0800000000000000
+      internalID: -2294394353729813644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_164
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fc8c87a31a72920800000000000000
+      internalID: 2965516152153362239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_165
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b569b4a3dc37c80800000000000000
+      internalID: -8326085635817972951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_166
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932313dafa2d4fa0800000000000000
+      internalID: -5814944287094004838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_167
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb1bb9489b63480800000000000000
+      internalID: -8919738032761750347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_168
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8363171e8ada0d200800000000000000
+      internalID: 202852924080076344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_169
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2519f46f0905747f0800000000000000
+      internalID: -628445039456972462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_170
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8420ab1253a9b9030800000000000000
+      internalID: 3502562688200475208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_171
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6941a44c8078c3430800000000000000
+      internalID: 3764031860297569430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_172
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8144d3974f482b950800000000000000
+      internalID: 6463374600771027992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_173
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f669aa6ec3de4f0800000000000000
+      internalID: -797914597572579535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_174
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9992328369b3e00800000000000000
+      internalID: 1025578508009183670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_175
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67981a4dcdd0c6250800000000000000
+      internalID: 5939137250706164086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_176
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbbff8ca2fab6f00800000000000000
+      internalID: 1111174331372649408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_177
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79126cc88f0623010800000000000000
+      internalID: 1167101874072330647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e9b54ef4d27a50800000000000000
+      internalID: 6517505799315120418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_179
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 22
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f2ca266579c300800000000000000
+      internalID: 272878334097159147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774072d047a224bc0800000000000000
+      internalID: -3800428457622043529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_181
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5362d196a4d397dc0800000000000000
+      internalID: -3640811433951943115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_182
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dae4c9ef2e53af0800000000000000
+      internalID: -417177807289930454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_183
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e97126fd9c836e0800000000000000
+      internalID: -1857512885029724560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_184
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c977f6064788ae0800000000000000
+      internalID: -1546858514465973242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_185
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 9
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14b16d78c7dd120800000000000000
+      internalID: 2440243495959216624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_186
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c8b3ec276945460800000000000000
+      internalID: 7229568721666935933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_187
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401f89c42e5fc5db0800000000000000
+      internalID: -4801692750387285756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73595459d6d394350800000000000000
+      internalID: 6001395519312991543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_189
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d865cadd43cb35d0800000000000000
+      internalID: -3081654780854703916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b573fde21fbecdb0800000000000000
+      internalID: -4769664867316304458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_191
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7229592fe5e7950800000000000000
+      internalID: 6448696112425609158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_192
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954085191cb6a6dd0800000000000000
+      internalID: -2492060964684823463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755a8193a92a5b40800000000000000
+      internalID: 5429698083246724466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_194
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb923b1508df78210800000000000000
+      internalID: 1335314542106978748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_195
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ac9faf551a1550800000000000000
+      internalID: 6132237343330707511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-UI_196
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bcaabe8cae2d40800000000000000
+      internalID: 5561572318866355403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 54729a73a0dccb045a3db500faaa9f10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dream-Catcher-UI_0: 697806218608750304
+      Dream-Catcher-UI_1: 3936087979753131255
+      Dream-Catcher-UI_10: 548396060958215149
+      Dream-Catcher-UI_100: 2979318040367196980
+      Dream-Catcher-UI_101: 6666276756027904525
+      Dream-Catcher-UI_102: 2889725142612542074
+      Dream-Catcher-UI_103: -6214802549911914541
+      Dream-Catcher-UI_104: -8867805414030225180
+      Dream-Catcher-UI_105: 5656715811918592406
+      Dream-Catcher-UI_106: 7598335914826057389
+      Dream-Catcher-UI_107: -7612219286735225246
+      Dream-Catcher-UI_108: -1697281622915389464
+      Dream-Catcher-UI_109: 1845228949509559781
+      Dream-Catcher-UI_11: -6472527555357915434
+      Dream-Catcher-UI_110: 3204456767782211335
+      Dream-Catcher-UI_111: 8491050612471490869
+      Dream-Catcher-UI_112: -2679766201765449484
+      Dream-Catcher-UI_113: -2703203336483365451
+      Dream-Catcher-UI_114: 2677441431288864928
+      Dream-Catcher-UI_115: -8794779754104499416
+      Dream-Catcher-UI_116: 8095309104473293742
+      Dream-Catcher-UI_117: -4884879459195723585
+      Dream-Catcher-UI_118: -5077812389651290958
+      Dream-Catcher-UI_119: -3917568350195402626
+      Dream-Catcher-UI_12: -1310030934592854209
+      Dream-Catcher-UI_120: 7382501458972200836
+      Dream-Catcher-UI_121: 4204187175128658117
+      Dream-Catcher-UI_122: -3143165790679337176
+      Dream-Catcher-UI_123: -6698882922840962569
+      Dream-Catcher-UI_124: -6246861819620899942
+      Dream-Catcher-UI_125: -1447304625596263889
+      Dream-Catcher-UI_126: 1722105143984342581
+      Dream-Catcher-UI_127: 5081857373447417605
+      Dream-Catcher-UI_128: 3424991947285423112
+      Dream-Catcher-UI_129: -7669671226385987204
+      Dream-Catcher-UI_13: 1487220036824818908
+      Dream-Catcher-UI_130: -6448410060769814670
+      Dream-Catcher-UI_131: -6485113179124038288
+      Dream-Catcher-UI_132: 374962571391301082
+      Dream-Catcher-UI_133: 3993749639268084388
+      Dream-Catcher-UI_134: -6726412127851978853
+      Dream-Catcher-UI_135: -1480051803243381601
+      Dream-Catcher-UI_136: -8488340826330130301
+      Dream-Catcher-UI_137: 1346050138688358978
+      Dream-Catcher-UI_138: 8522761124062988344
+      Dream-Catcher-UI_139: -9106898903058493271
+      Dream-Catcher-UI_14: -4429016058825369843
+      Dream-Catcher-UI_140: -7089822054708569942
+      Dream-Catcher-UI_141: -8343063082084706788
+      Dream-Catcher-UI_142: -6772697816141316684
+      Dream-Catcher-UI_143: -4154118538943804575
+      Dream-Catcher-UI_144: -1858006491551047691
+      Dream-Catcher-UI_145: -472694080310532372
+      Dream-Catcher-UI_146: 2988218395896514244
+      Dream-Catcher-UI_147: 4230351591490202351
+      Dream-Catcher-UI_148: -7645754678445450858
+      Dream-Catcher-UI_149: -3050270262306765771
+      Dream-Catcher-UI_15: -532692471811179035
+      Dream-Catcher-UI_150: -8887341302963603838
+      Dream-Catcher-UI_151: -2547512182264260990
+      Dream-Catcher-UI_152: -4194202549313619467
+      Dream-Catcher-UI_153: -9177532464146253872
+      Dream-Catcher-UI_154: -7378776128561667235
+      Dream-Catcher-UI_155: 4034613250249198105
+      Dream-Catcher-UI_156: -1382085398934460579
+      Dream-Catcher-UI_157: 418910120017690607
+      Dream-Catcher-UI_158: 6953919403769784143
+      Dream-Catcher-UI_159: 9159646718350985601
+      Dream-Catcher-UI_16: 5531093657410975829
+      Dream-Catcher-UI_160: 7694167015813621961
+      Dream-Catcher-UI_161: 1473931986124171639
+      Dream-Catcher-UI_162: 2465685216793140232
+      Dream-Catcher-UI_163: -2294394353729813644
+      Dream-Catcher-UI_164: 2965516152153362239
+      Dream-Catcher-UI_165: -8326085635817972951
+      Dream-Catcher-UI_166: -5814944287094004838
+      Dream-Catcher-UI_167: -8919738032761750347
+      Dream-Catcher-UI_168: 202852924080076344
+      Dream-Catcher-UI_169: -628445039456972462
+      Dream-Catcher-UI_17: 6899670479606351168
+      Dream-Catcher-UI_170: 3502562688200475208
+      Dream-Catcher-UI_171: 3764031860297569430
+      Dream-Catcher-UI_172: 6463374600771027992
+      Dream-Catcher-UI_173: -797914597572579535
+      Dream-Catcher-UI_174: 1025578508009183670
+      Dream-Catcher-UI_175: 5939137250706164086
+      Dream-Catcher-UI_176: 1111174331372649408
+      Dream-Catcher-UI_177: 1167101874072330647
+      Dream-Catcher-UI_178: 6517505799315120418
+      Dream-Catcher-UI_179: 272878334097159147
+      Dream-Catcher-UI_18: -8169166850502730913
+      Dream-Catcher-UI_180: -3800428457622043529
+      Dream-Catcher-UI_181: -3640811433951943115
+      Dream-Catcher-UI_182: -417177807289930454
+      Dream-Catcher-UI_183: -1857512885029724560
+      Dream-Catcher-UI_184: -1546858514465973242
+      Dream-Catcher-UI_185: 2440243495959216624
+      Dream-Catcher-UI_186: 7229568721666935933
+      Dream-Catcher-UI_187: -4801692750387285756
+      Dream-Catcher-UI_188: 6001395519312991543
+      Dream-Catcher-UI_189: -3081654780854703916
+      Dream-Catcher-UI_19: 6793652412564956520
+      Dream-Catcher-UI_190: -4769664867316304458
+      Dream-Catcher-UI_191: 6448696112425609158
+      Dream-Catcher-UI_192: -2492060964684823463
+      Dream-Catcher-UI_193: 5429698083246724466
+      Dream-Catcher-UI_194: 1335314542106978748
+      Dream-Catcher-UI_195: 6132237343330707511
+      Dream-Catcher-UI_196: 5561572318866355403
+      Dream-Catcher-UI_2: -3201567803696751386
+      Dream-Catcher-UI_20: -7178152005760453624
+      Dream-Catcher-UI_21: -5085246333743692369
+      Dream-Catcher-UI_22: -8764651174987498744
+      Dream-Catcher-UI_23: -131798440909456403
+      Dream-Catcher-UI_24: -1055919616239582077
+      Dream-Catcher-UI_25: 8327318938421240957
+      Dream-Catcher-UI_26: 5774960878219768029
+      Dream-Catcher-UI_27: -1833530905023780961
+      Dream-Catcher-UI_28: -9176121807617436809
+      Dream-Catcher-UI_29: 5853821208347124161
+      Dream-Catcher-UI_3: 4098521637841459240
+      Dream-Catcher-UI_30: -7621863786638109254
+      Dream-Catcher-UI_31: 2214968292126813826
+      Dream-Catcher-UI_32: 4548214944847010045
+      Dream-Catcher-UI_33: -3669174025457508533
+      Dream-Catcher-UI_34: -7563198003985390818
+      Dream-Catcher-UI_35: 6511572106137897180
+      Dream-Catcher-UI_36: 2900408292018084846
+      Dream-Catcher-UI_37: -2479108381912984525
+      Dream-Catcher-UI_38: -8905332995058824810
+      Dream-Catcher-UI_39: -8053635085967390067
+      Dream-Catcher-UI_4: 1754840642727275067
+      Dream-Catcher-UI_40: 7771193697669334816
+      Dream-Catcher-UI_41: -5937390114099141008
+      Dream-Catcher-UI_42: 586960204124669587
+      Dream-Catcher-UI_43: -4041198844606504170
+      Dream-Catcher-UI_44: 7966635998001367183
+      Dream-Catcher-UI_45: 4699333010761932549
+      Dream-Catcher-UI_46: 1052569644971865099
+      Dream-Catcher-UI_47: 5943470311200566090
+      Dream-Catcher-UI_48: -634323809210545283
+      Dream-Catcher-UI_49: -9217947867321669880
+      Dream-Catcher-UI_5: 4753473719056231637
+      Dream-Catcher-UI_50: -7684734680094350638
+      Dream-Catcher-UI_51: -8706754203569594847
+      Dream-Catcher-UI_52: -5971752489324423795
+      Dream-Catcher-UI_53: -6576112855147517091
+      Dream-Catcher-UI_54: -6740543779520968409
+      Dream-Catcher-UI_55: -5007578570581393471
+      Dream-Catcher-UI_56: 3305834073656445370
+      Dream-Catcher-UI_57: -6282921764057078199
+      Dream-Catcher-UI_58: -7312110424112419144
+      Dream-Catcher-UI_59: -2059223976282975647
+      Dream-Catcher-UI_6: 6042062878512544886
+      Dream-Catcher-UI_60: -4987407310254661503
+      Dream-Catcher-UI_61: 5715971975619329130
+      Dream-Catcher-UI_62: -6674958322967242838
+      Dream-Catcher-UI_63: -7910594541659927645
+      Dream-Catcher-UI_64: 263409485307893220
+      Dream-Catcher-UI_65: -946240200898069104
+      Dream-Catcher-UI_66: 3067854106671062497
+      Dream-Catcher-UI_67: 9165343578832875102
+      Dream-Catcher-UI_68: 4233741735235033971
+      Dream-Catcher-UI_69: -7474702027914445154
+      Dream-Catcher-UI_7: -6257514887265560471
+      Dream-Catcher-UI_70: 6565402651894118274
+      Dream-Catcher-UI_71: 5191922545610519556
+      Dream-Catcher-UI_72: 8583112752465017793
+      Dream-Catcher-UI_73: 3339284645417649194
+      Dream-Catcher-UI_74: 9324574461722072
+      Dream-Catcher-UI_75: 9196617934438093236
+      Dream-Catcher-UI_76: -7886248756114002386
+      Dream-Catcher-UI_77: -5158416042495214306
+      Dream-Catcher-UI_78: 1632344065154747082
+      Dream-Catcher-UI_79: 2657770639166177210
+      Dream-Catcher-UI_8: 8930067211406205846
+      Dream-Catcher-UI_80: -3102602098740760407
+      Dream-Catcher-UI_81: 746197768689209044
+      Dream-Catcher-UI_82: -4018116078018126290
+      Dream-Catcher-UI_83: -1585167900607448460
+      Dream-Catcher-UI_84: 817853490168181060
+      Dream-Catcher-UI_85: -2825527488704929521
+      Dream-Catcher-UI_86: 2471604476961134539
+      Dream-Catcher-UI_87: 841146259057949279
+      Dream-Catcher-UI_88: -4619036452476749894
+      Dream-Catcher-UI_89: 8060006965274058068
+      Dream-Catcher-UI_9: -5937128905846137443
+      Dream-Catcher-UI_90: 1798408577274388001
+      Dream-Catcher-UI_91: 7423521911588654835
+      Dream-Catcher-UI_92: -17924763025003248
+      Dream-Catcher-UI_93: -185585620532963658
+      Dream-Catcher-UI_94: 1030155163647326833
+      Dream-Catcher-UI_95: 6661597099816719064
+      Dream-Catcher-UI_96: 848351568033232109
+      Dream-Catcher-UI_97: -4441056762752945212
+      Dream-Catcher-UI_98: -7074419872262819197
+      Dream-Catcher-UI_99: 6869003052355113976
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

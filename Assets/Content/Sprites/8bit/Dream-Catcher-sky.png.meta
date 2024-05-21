@@ -1,0 +1,5308 @@
+fileFormatVersion: 2
+guid: 8345416b4b262334fa86c597a5e0583d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6466317975496066629
+    second: Dream-Catcher-sky_0
+  - first:
+      213: -8342046281355785087
+    second: Dream-Catcher-sky_1
+  - first:
+      213: -4618783502940743768
+    second: Dream-Catcher-sky_2
+  - first:
+      213: 6952512913608242337
+    second: Dream-Catcher-sky_3
+  - first:
+      213: -7062896967988299619
+    second: Dream-Catcher-sky_4
+  - first:
+      213: 766468090570698574
+    second: Dream-Catcher-sky_5
+  - first:
+      213: -3701587953856366042
+    second: Dream-Catcher-sky_6
+  - first:
+      213: -6234510857789547451
+    second: Dream-Catcher-sky_7
+  - first:
+      213: 8426169037481724694
+    second: Dream-Catcher-sky_8
+  - first:
+      213: 4937805970216931130
+    second: Dream-Catcher-sky_9
+  - first:
+      213: 3765568710016684335
+    second: Dream-Catcher-sky_10
+  - first:
+      213: 7154527044296813086
+    second: Dream-Catcher-sky_11
+  - first:
+      213: -227414039452193239
+    second: Dream-Catcher-sky_12
+  - first:
+      213: -8586753732236843848
+    second: Dream-Catcher-sky_13
+  - first:
+      213: 1208110240837978343
+    second: Dream-Catcher-sky_14
+  - first:
+      213: -912819983387493352
+    second: Dream-Catcher-sky_15
+  - first:
+      213: 2262295878071084557
+    second: Dream-Catcher-sky_16
+  - first:
+      213: -3389312728450175630
+    second: Dream-Catcher-sky_17
+  - first:
+      213: 4150072870952591688
+    second: Dream-Catcher-sky_18
+  - first:
+      213: -6904331711034717685
+    second: Dream-Catcher-sky_19
+  - first:
+      213: -8395572130042340559
+    second: Dream-Catcher-sky_20
+  - first:
+      213: -8126678619122972514
+    second: Dream-Catcher-sky_21
+  - first:
+      213: -5612198708092448266
+    second: Dream-Catcher-sky_22
+  - first:
+      213: -1328520779301693437
+    second: Dream-Catcher-sky_23
+  - first:
+      213: 1194092095266581274
+    second: Dream-Catcher-sky_24
+  - first:
+      213: 1839922290599195359
+    second: Dream-Catcher-sky_25
+  - first:
+      213: -8416664679352666833
+    second: Dream-Catcher-sky_26
+  - first:
+      213: 6378280808182166243
+    second: Dream-Catcher-sky_27
+  - first:
+      213: -8864969498848990858
+    second: Dream-Catcher-sky_28
+  - first:
+      213: 9075618819221065132
+    second: Dream-Catcher-sky_29
+  - first:
+      213: -2920723752937234406
+    second: Dream-Catcher-sky_30
+  - first:
+      213: 3918396027587099871
+    second: Dream-Catcher-sky_31
+  - first:
+      213: -1318135535007210365
+    second: Dream-Catcher-sky_32
+  - first:
+      213: -2951150800077352276
+    second: Dream-Catcher-sky_33
+  - first:
+      213: -1296792945856670282
+    second: Dream-Catcher-sky_34
+  - first:
+      213: 6245382662282867496
+    second: Dream-Catcher-sky_35
+  - first:
+      213: 4925063269189046990
+    second: Dream-Catcher-sky_36
+  - first:
+      213: 5801302486951960291
+    second: Dream-Catcher-sky_37
+  - first:
+      213: -3397240196283105260
+    second: Dream-Catcher-sky_38
+  - first:
+      213: 5300723667586876823
+    second: Dream-Catcher-sky_39
+  - first:
+      213: -8085609858544585369
+    second: Dream-Catcher-sky_40
+  - first:
+      213: -683248954474749115
+    second: Dream-Catcher-sky_41
+  - first:
+      213: 5958289918107573824
+    second: Dream-Catcher-sky_42
+  - first:
+      213: -8365502042408690309
+    second: Dream-Catcher-sky_43
+  - first:
+      213: -6253077662389489607
+    second: Dream-Catcher-sky_44
+  - first:
+      213: 3455882168209946944
+    second: Dream-Catcher-sky_45
+  - first:
+      213: -7721572268621045414
+    second: Dream-Catcher-sky_46
+  - first:
+      213: 5614947395785584375
+    second: Dream-Catcher-sky_47
+  - first:
+      213: 3067802075237659071
+    second: Dream-Catcher-sky_48
+  - first:
+      213: -7964240628530969050
+    second: Dream-Catcher-sky_49
+  - first:
+      213: 3082050596863889642
+    second: Dream-Catcher-sky_50
+  - first:
+      213: -4331714344338625111
+    second: Dream-Catcher-sky_51
+  - first:
+      213: -260306053378111973
+    second: Dream-Catcher-sky_52
+  - first:
+      213: -3192652041342221988
+    second: Dream-Catcher-sky_53
+  - first:
+      213: 6865957858336530354
+    second: Dream-Catcher-sky_54
+  - first:
+      213: 351674228539106930
+    second: Dream-Catcher-sky_55
+  - first:
+      213: 1666955023621129382
+    second: Dream-Catcher-sky_56
+  - first:
+      213: -1617508845158348763
+    second: Dream-Catcher-sky_57
+  - first:
+      213: 1453061757740872094
+    second: Dream-Catcher-sky_58
+  - first:
+      213: 8617084436342201961
+    second: Dream-Catcher-sky_59
+  - first:
+      213: -6361110159599372871
+    second: Dream-Catcher-sky_60
+  - first:
+      213: -7430325748887724269
+    second: Dream-Catcher-sky_61
+  - first:
+      213: 1605618717035596973
+    second: Dream-Catcher-sky_62
+  - first:
+      213: -6647667722738315211
+    second: Dream-Catcher-sky_63
+  - first:
+      213: -683728644418680929
+    second: Dream-Catcher-sky_64
+  - first:
+      213: -108482813996187861
+    second: Dream-Catcher-sky_65
+  - first:
+      213: -7754725632505788261
+    second: Dream-Catcher-sky_66
+  - first:
+      213: 80632714460826161
+    second: Dream-Catcher-sky_67
+  - first:
+      213: -4664736783200982320
+    second: Dream-Catcher-sky_68
+  - first:
+      213: 6159661604393934317
+    second: Dream-Catcher-sky_69
+  - first:
+      213: -1719756492154136862
+    second: Dream-Catcher-sky_70
+  - first:
+      213: -5801781752236764149
+    second: Dream-Catcher-sky_71
+  - first:
+      213: -8627479517938957736
+    second: Dream-Catcher-sky_72
+  - first:
+      213: 5930680521783571413
+    second: Dream-Catcher-sky_73
+  - first:
+      213: -4560513150171907148
+    second: Dream-Catcher-sky_74
+  - first:
+      213: -4595478432460023823
+    second: Dream-Catcher-sky_75
+  - first:
+      213: 5862499106138593471
+    second: Dream-Catcher-sky_76
+  - first:
+      213: 512975512836852948
+    second: Dream-Catcher-sky_77
+  - first:
+      213: -5885424374731986005
+    second: Dream-Catcher-sky_78
+  - first:
+      213: -7124316914875909989
+    second: Dream-Catcher-sky_79
+  - first:
+      213: -2933904792109863152
+    second: Dream-Catcher-sky_80
+  - first:
+      213: 8107133063049315582
+    second: Dream-Catcher-sky_81
+  - first:
+      213: -8857373154398587069
+    second: Dream-Catcher-sky_82
+  - first:
+      213: -4731226344694414607
+    second: Dream-Catcher-sky_83
+  - first:
+      213: -2651308027507571468
+    second: Dream-Catcher-sky_84
+  - first:
+      213: -1964560975802932709
+    second: Dream-Catcher-sky_85
+  - first:
+      213: -7917461482528308228
+    second: Dream-Catcher-sky_86
+  - first:
+      213: -5410388558135221372
+    second: Dream-Catcher-sky_87
+  - first:
+      213: 7283916094128975459
+    second: Dream-Catcher-sky_88
+  - first:
+      213: -2587496209213531249
+    second: Dream-Catcher-sky_89
+  - first:
+      213: -5379222596542711976
+    second: Dream-Catcher-sky_90
+  - first:
+      213: -1846584074555388648
+    second: Dream-Catcher-sky_91
+  - first:
+      213: 6780279657510887070
+    second: Dream-Catcher-sky_92
+  - first:
+      213: -5681176621821058089
+    second: Dream-Catcher-sky_93
+  - first:
+      213: 3738086523517217209
+    second: Dream-Catcher-sky_94
+  - first:
+      213: 6722592436895506806
+    second: Dream-Catcher-sky_95
+  - first:
+      213: 1398626353617046784
+    second: Dream-Catcher-sky_96
+  - first:
+      213: 8463769929413314074
+    second: Dream-Catcher-sky_97
+  - first:
+      213: -2514369477604611657
+    second: Dream-Catcher-sky_98
+  - first:
+      213: -5121551243777133158
+    second: Dream-Catcher-sky_99
+  - first:
+      213: -2231713338248320353
+    second: Dream-Catcher-sky_100
+  - first:
+      213: 7250575657764277052
+    second: Dream-Catcher-sky_101
+  - first:
+      213: 6840605901452482777
+    second: Dream-Catcher-sky_102
+  - first:
+      213: -1520818979819504834
+    second: Dream-Catcher-sky_103
+  - first:
+      213: 7163517687789619089
+    second: Dream-Catcher-sky_104
+  - first:
+      213: 1945709408230651116
+    second: Dream-Catcher-sky_105
+  - first:
+      213: 5175575919264152037
+    second: Dream-Catcher-sky_106
+  - first:
+      213: -6707524051124175371
+    second: Dream-Catcher-sky_107
+  - first:
+      213: 4536042968965044368
+    second: Dream-Catcher-sky_108
+  - first:
+      213: 5148056628657270406
+    second: Dream-Catcher-sky_109
+  - first:
+      213: -1199187652895798944
+    second: Dream-Catcher-sky_110
+  - first:
+      213: -8857040798168427857
+    second: Dream-Catcher-sky_111
+  - first:
+      213: 2277644350662169645
+    second: Dream-Catcher-sky_112
+  - first:
+      213: -9054104846028225508
+    second: Dream-Catcher-sky_113
+  - first:
+      213: 3758000100307342509
+    second: Dream-Catcher-sky_114
+  - first:
+      213: -5897199248220815445
+    second: Dream-Catcher-sky_115
+  - first:
+      213: -511873827811284191
+    second: Dream-Catcher-sky_116
+  - first:
+      213: -4932062324881302122
+    second: Dream-Catcher-sky_117
+  - first:
+      213: 7455419943550614712
+    second: Dream-Catcher-sky_118
+  - first:
+      213: 6036343463256128064
+    second: Dream-Catcher-sky_119
+  - first:
+      213: 3703517852542967184
+    second: Dream-Catcher-sky_120
+  - first:
+      213: 2743027414738592075
+    second: Dream-Catcher-sky_121
+  - first:
+      213: 5252186287682604370
+    second: Dream-Catcher-sky_122
+  - first:
+      213: -6969451721628905071
+    second: Dream-Catcher-sky_123
+  - first:
+      213: 1884215428242427365
+    second: Dream-Catcher-sky_124
+  - first:
+      213: -7318607111253857338
+    second: Dream-Catcher-sky_125
+  - first:
+      213: -8164937910255044256
+    second: Dream-Catcher-sky_126
+  - first:
+      213: 2548373515591581476
+    second: Dream-Catcher-sky_127
+  - first:
+      213: 7791246832022382984
+    second: Dream-Catcher-sky_128
+  - first:
+      213: 6635241387453043259
+    second: Dream-Catcher-sky_129
+  - first:
+      213: -2470352292594995696
+    second: Dream-Catcher-sky_130
+  - first:
+      213: -7202795831345031937
+    second: Dream-Catcher-sky_131
+  - first:
+      213: -7922991068902153993
+    second: Dream-Catcher-sky_132
+  - first:
+      213: 8639519236415960492
+    second: Dream-Catcher-sky_133
+  - first:
+      213: -1125635071450197097
+    second: Dream-Catcher-sky_134
+  - first:
+      213: -4305922989907500855
+    second: Dream-Catcher-sky_135
+  - first:
+      213: -1243995593954243733
+    second: Dream-Catcher-sky_136
+  - first:
+      213: -8846484906913308464
+    second: Dream-Catcher-sky_137
+  - first:
+      213: 7528095401297757601
+    second: Dream-Catcher-sky_138
+  - first:
+      213: 3003528591599333000
+    second: Dream-Catcher-sky_139
+  - first:
+      213: -7739832760339963698
+    second: Dream-Catcher-sky_140
+  - first:
+      213: -6974217476906298209
+    second: Dream-Catcher-sky_141
+  - first:
+      213: 5526778054646420580
+    second: Dream-Catcher-sky_142
+  - first:
+      213: 7039103159090061536
+    second: Dream-Catcher-sky_143
+  - first:
+      213: 1924968953971458218
+    second: Dream-Catcher-sky_144
+  - first:
+      213: -6683080942461887723
+    second: Dream-Catcher-sky_145
+  - first:
+      213: -1048491341034254425
+    second: Dream-Catcher-sky_146
+  - first:
+      213: -4757905532884764549
+    second: Dream-Catcher-sky_147
+  - first:
+      213: 4475200086282381402
+    second: Dream-Catcher-sky_148
+  - first:
+      213: -7141702072780794496
+    second: Dream-Catcher-sky_149
+  - first:
+      213: -6631269795734904504
+    second: Dream-Catcher-sky_150
+  - first:
+      213: 2510074505855014608
+    second: Dream-Catcher-sky_151
+  - first:
+      213: -6470037069013948981
+    second: Dream-Catcher-sky_152
+  - first:
+      213: -2441814736278751954
+    second: Dream-Catcher-sky_153
+  - first:
+      213: 5924836380710989053
+    second: Dream-Catcher-sky_154
+  - first:
+      213: 2992554989967279131
+    second: Dream-Catcher-sky_155
+  - first:
+      213: -6597650895587426623
+    second: Dream-Catcher-sky_156
+  - first:
+      213: 3571039283033322761
+    second: Dream-Catcher-sky_157
+  - first:
+      213: -5642105992395706592
+    second: Dream-Catcher-sky_158
+  - first:
+      213: -5110857780459833469
+    second: Dream-Catcher-sky_159
+  - first:
+      213: -407934114328193516
+    second: Dream-Catcher-sky_160
+  - first:
+      213: -6732656995681340888
+    second: Dream-Catcher-sky_161
+  - first:
+      213: 2393514180346515331
+    second: Dream-Catcher-sky_162
+  - first:
+      213: 4983069464266619971
+    second: Dream-Catcher-sky_163
+  - first:
+      213: 8447519877341482573
+    second: Dream-Catcher-sky_164
+  - first:
+      213: -3956450685696858530
+    second: Dream-Catcher-sky_165
+  - first:
+      213: 638166998877726714
+    second: Dream-Catcher-sky_166
+  - first:
+      213: -7556831127663010797
+    second: Dream-Catcher-sky_167
+  - first:
+      213: 7157705045727717517
+    second: Dream-Catcher-sky_168
+  - first:
+      213: 5173222342485397087
+    second: Dream-Catcher-sky_169
+  - first:
+      213: 8274651631026748422
+    second: Dream-Catcher-sky_170
+  - first:
+      213: 2724453742031988342
+    second: Dream-Catcher-sky_171
+  - first:
+      213: -1876319247959491065
+    second: Dream-Catcher-sky_172
+  - first:
+      213: -3115714802030500249
+    second: Dream-Catcher-sky_173
+  - first:
+      213: -2706349283809837999
+    second: Dream-Catcher-sky_174
+  - first:
+      213: -2088097645830514861
+    second: Dream-Catcher-sky_175
+  - first:
+      213: 887313793499547153
+    second: Dream-Catcher-sky_176
+  - first:
+      213: 3816822313349351689
+    second: Dream-Catcher-sky_177
+  - first:
+      213: -3926627103947650092
+    second: Dream-Catcher-sky_178
+  - first:
+      213: -964085002602975577
+    second: Dream-Catcher-sky_179
+  - first:
+      213: -983209513783659152
+    second: Dream-Catcher-sky_180
+  - first:
+      213: 6531718462033269981
+    second: Dream-Catcher-sky_181
+  - first:
+      213: 2662706221575007004
+    second: Dream-Catcher-sky_182
+  - first:
+      213: -8862890384958741499
+    second: Dream-Catcher-sky_183
+  - first:
+      213: -3360220170807166914
+    second: Dream-Catcher-sky_184
+  - first:
+      213: -1910473959521069299
+    second: Dream-Catcher-sky_185
+  - first:
+      213: -4878343575586467253
+    second: Dream-Catcher-sky_186
+  - first:
+      213: -8422254411434110525
+    second: Dream-Catcher-sky_187
+  - first:
+      213: -4095986168109354959
+    second: Dream-Catcher-sky_188
+  - first:
+      213: -5604769040888254372
+    second: Dream-Catcher-sky_189
+  - first:
+      213: -4182844783535760886
+    second: Dream-Catcher-sky_190
+  - first:
+      213: 5062175504384593112
+    second: Dream-Catcher-sky_191
+  - first:
+      213: -3772422869276927300
+    second: Dream-Catcher-sky_192
+  - first:
+      213: -4638511063554595419
+    second: Dream-Catcher-sky_193
+  - first:
+      213: -3634639028522384906
+    second: Dream-Catcher-sky_194
+  - first:
+      213: 222697210406629457
+    second: Dream-Catcher-sky_195
+  - first:
+      213: -6375189913534667845
+    second: Dream-Catcher-sky_196
+  - first:
+      213: 8936923907817562799
+    second: Dream-Catcher-sky_197
+  - first:
+      213: 2379614591656196780
+    second: Dream-Catcher-sky_198
+  - first:
+      213: 3910035333682610935
+    second: Dream-Catcher-sky_199
+  - first:
+      213: -8806357057161108705
+    second: Dream-Catcher-sky_200
+  - first:
+      213: -3869679420108624025
+    second: Dream-Catcher-sky_201
+  - first:
+      213: 6016441471900675385
+    second: Dream-Catcher-sky_202
+  - first:
+      213: 8598937112349992546
+    second: Dream-Catcher-sky_203
+  - first:
+      213: 269793838740664473
+    second: Dream-Catcher-sky_204
+  - first:
+      213: -1733318887740324132
+    second: Dream-Catcher-sky_205
+  - first:
+      213: -3706579123141632934
+    second: Dream-Catcher-sky_206
+  - first:
+      213: 5047310537307653697
+    second: Dream-Catcher-sky_207
+  - first:
+      213: 4564351443170499585
+    second: Dream-Catcher-sky_208
+  - first:
+      213: -7656478044162486469
+    second: Dream-Catcher-sky_209
+  - first:
+      213: -13576885530774692
+    second: Dream-Catcher-sky_210
+  - first:
+      213: 4237116393235528306
+    second: Dream-Catcher-sky_211
+  - first:
+      213: 70797924906763351
+    second: Dream-Catcher-sky_212
+  - first:
+      213: 3226596264440243461
+    second: Dream-Catcher-sky_213
+  - first:
+      213: 6824335507294521306
+    second: Dream-Catcher-sky_214
+  - first:
+      213: 448314936299614624
+    second: Dream-Catcher-sky_215
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb975d1bf060346a0800000000000000
+      internalID: -6466317975496066629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 367
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c8bebea191b3c80800000000000000
+      internalID: -8342046281355785087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 368
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a758cc10e8c6efb0800000000000000
+      internalID: -4618783502940743768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 370
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a47fefa8a94c7060800000000000000
+      internalID: 6952512913608242337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 376
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98bfd1e0ac8bfd90800000000000000
+      internalID: -7062896967988299619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 360
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f632edaaa03aa00800000000000000
+      internalID: 766468090570698574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 368
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ab6892e5151acc0800000000000000
+      internalID: -3701587953856366042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 370
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c532d18619a79a0800000000000000
+      internalID: -6234510857789547451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 376
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b4e788814cfe470800000000000000
+      internalID: 8426169037481724694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_9
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 360
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f45984e5c968440800000000000000
+      internalID: 4937805970216931130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 368
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21ded97accf14430800000000000000
+      internalID: 3765568710016684335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 370
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aac33c07cf94360800000000000000
+      internalID: 7154527044296813086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 376
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee381d22018dcf0800000000000000
+      internalID: -227414039452193239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 360
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b46340a9f8b5d880800000000000000
+      internalID: -8586753732236843848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c8aafcd114c010800000000000000
+      internalID: 1208110240837978343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 343
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c7f4abf030553f0800000000000000
+      internalID: -912819983387493352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 343
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06e14d6d1a456f10800000000000000
+      internalID: 2262295878071084557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 343
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d6404e70eb6f0d0800000000000000
+      internalID: -3389312728450175630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 344
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8416d11c945089930800000000000000
+      internalID: 4150072870952591688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 346
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a8f48b3e2ee20a0800000000000000
+      internalID: -6904331711034717685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 344
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b18ae11afec7b80800000000000000
+      internalID: -8395572130042340559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 344
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98c9675adc383f80800000000000000
+      internalID: -8126678619122972514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 346
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15e3b72077d12b0800000000000000
+      internalID: -5612198708092448266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 344
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085ff8d365209de0800000000000000
+      internalID: -1328520779301693437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 344
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b677f1f64429010800000000000000
+      internalID: 1194092095266581274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 346
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2fc713397b88910800000000000000
+      internalID: 1839922290599195359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 344
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f257b994110023b80800000000000000
+      internalID: -8416664679352666833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2b369f994348850800000000000000
+      internalID: 6378280808182166243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ee6c953d49f480800000000000000
+      internalID: -8864969498848990858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad858c3b3313fd70800000000000000
+      internalID: 9075618819221065132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10612ba8318777d0800000000000000
+      internalID: -2920723752937234406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 320
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc71a13d60f06630800000000000000
+      internalID: 3918396027587099871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_32
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 322
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846316f6ba05bde0800000000000000
+      internalID: -1318135535007210365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 328
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca297c2bbf76b07d0800000000000000
+      internalID: -2951150800077352276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 312
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b51bfabfadd00ee0800000000000000
+      internalID: -1296792945856670282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 320
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823f0cf117e0ca650800000000000000
+      internalID: 6245382662282867496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_36
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 322
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2565003f6595440800000000000000
+      internalID: 4925063269189046990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 328
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee9c5110ed528050800000000000000
+      internalID: 5801302486951960291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_38
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 312
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4100ed37a049ad0d0800000000000000
+      internalID: -3397240196283105260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 320
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795850b5714ff8940800000000000000
+      internalID: 5300723667586876823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_40
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 322
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765bd0d4ca42acf80800000000000000
+      internalID: -8085609858544585369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_41
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 328
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543206722bc9486f0800000000000000
+      internalID: -683248954474749115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 312
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ed795bc1910b250800000000000000
+      internalID: 5958289918107573824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ddc6af634c7eb80800000000000000
+      internalID: -8365502042408690309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 295
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930385c0ffa9839a0800000000000000
+      internalID: -6253077662389489607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 272
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049b2cd9582c5ff20800000000000000
+      internalID: 3455882168209946944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e55daee677d490800000000000000
+      internalID: -7721572268621045414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 296
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feed4e38ec4ced40800000000000000
+      internalID: 5614947395785584375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 298
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb13fb7cbb5039a20800000000000000
+      internalID: 3067802075237659071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 296
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268dae3855597190800000000000000
+      internalID: -7964240628530969050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_50
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 296
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae05add30b4a5ca20800000000000000
+      internalID: 3082050596863889642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 298
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad6b3511c8a2e3c0800000000000000
+      internalID: -4331714344338625111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_52
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 296
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16838b0605336cf0800000000000000
+      internalID: -260306053378111973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_53
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 296
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c510f5042eb61b3d0800000000000000
+      internalID: -3192652041342221988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 298
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf53f47b48c84f50800000000000000
+      internalID: 6865957858336530354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276abbcf8d561e400800000000000000
+      internalID: 351674228539106930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 271
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48d7713c6322710800000000000000
+      internalID: 1666955023621129382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 272
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528c84776447d89e0800000000000000
+      internalID: -1617508845158348763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_58
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 274
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9179d258ff4a2410800000000000000
+      internalID: 1453061757740872094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 272
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e59bbb3a8069770800000000000000
+      internalID: 8617084436342201961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 274
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b573ff230cc8b7a0800000000000000
+      internalID: -6361110159599372871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_61
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 272
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdb14591e22e890800000000000000
+      internalID: -7430325748887724269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_62
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 274
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac00a957bd484610800000000000000
+      internalID: 1605618717035596973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5305a515d6dbeb3a0800000000000000
+      internalID: -6647667722738315211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_64
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 247
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f974aa2ab68e286f0800000000000000
+      internalID: -683728644418680929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb58794779e7ef0800000000000000
+      internalID: -108482813996187861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_66
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 256
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9840ef9f1ea16490800000000000000
+      internalID: -7754725632505788261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a86bec6077e1100800000000000000
+      internalID: 80632714460826161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da6b9a4c96834fb0800000000000000
+      internalID: -4664736783200982320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_69
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 247
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded538a08938b7550800000000000000
+      internalID: 6159661604393934317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 250
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e61bf005923228e0800000000000000
+      internalID: -1719756492154136862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 248
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0495994c3eeb7fa0800000000000000
+      internalID: -5801781752236764149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_72
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 250
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8524a4ab619054880800000000000000
+      internalID: -8627479517938957736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3fc3133820e4250800000000000000
+      internalID: 5930680521783571413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb718ad37dc5b0c0800000000000000
+      internalID: -4560513150171907148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 224
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7504ca6b49930c0800000000000000
+      internalID: -4595478432460023823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 161
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb89f6d40e7cb5150800000000000000
+      internalID: 5862499106138593471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc4d15d2847e1700800000000000000
+      internalID: 512975512836852948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_78
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 226
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babaca7a6b5c25ea0800000000000000
+      internalID: -5885424374731986005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_79
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 232
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98b38d1387512d90800000000000000
+      internalID: -7124316914875909989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 216
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa975d22da847d0800000000000000
+      internalID: -2933904792109863152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 224
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef401e14192528070800000000000000
+      internalID: 8107133063049315582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_82
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 226
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347bdf06b0a441580800000000000000
+      internalID: -8857373154398587069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 232
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20584e4be475eb0800000000000000
+      internalID: -4731226344694414607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_84
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 216
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4054e6569a43bd0800000000000000
+      internalID: -2651308027507571468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 224
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12eba1833a7cb4e0800000000000000
+      internalID: -1964560975802932709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_86
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 226
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3001beab68f1290800000000000000
+      internalID: -7917461482528308228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_87
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 232
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483238795407ae4b0800000000000000
+      internalID: -5410388558135221372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 216
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eee44881ba51560800000000000000
+      internalID: 7283916094128975459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b582828ed571cd0800000000000000
+      internalID: -2587496209213531249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 202
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857315d7c892955b0800000000000000
+      internalID: -5379222596542711976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_91
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 200
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d8b3c519d9f56e0800000000000000
+      internalID: -1846584074555388648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_92
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 200
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e5ebfcc64681e50800000000000000
+      internalID: 6780279657510887070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 202
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d32a1e66f76821b0800000000000000
+      internalID: -5681176621821058089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_94
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 200
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b92bed43e950e330800000000000000
+      internalID: 3738086523517217209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_95
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 200
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67162ea14327b4d50800000000000000
+      internalID: 6722592436895506806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_96
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 202
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d08d4224be86310800000000000000
+      internalID: 1398626353617046784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_97
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16405768e9557570800000000000000
+      internalID: 8463769929413314074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 176
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9ea45284a2b1dd0800000000000000
+      internalID: -2514369477604611657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_99
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 178
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9534b767489ce8b0800000000000000
+      internalID: -5121551243777133158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_100
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 184
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a25310b8c5701e0800000000000000
+      internalID: -2231713338248320353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 168
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b422245283f9460800000000000000
+      internalID: 7250575657764277052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_102
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 176
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8148403d6beee50800000000000000
+      internalID: 6840605901452482777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 178
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bbf2c0237f4eae0800000000000000
+      internalID: -1520818979819504834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_104
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 184
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978de2126de96360800000000000000
+      internalID: 7163517687789619089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_105
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 168
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce439b1e56c800b10800000000000000
+      internalID: 1945709408230651116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_106
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 176
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93ecf80e653d740800000000000000
+      internalID: 5175575919264152037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_107
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 178
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdba5ad9661ae2a0800000000000000
+      internalID: -6707524051124175371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_108
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 184
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098d11b1c0343fe30800000000000000
+      internalID: 4536042968965044368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_109
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 168
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e26ba6a32917740800000000000000
+      internalID: 5148056628657270406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_110
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 152
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0698c1aee21ab5fe0800000000000000
+      internalID: -1199187652895798944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_111
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 154
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa257081258751580800000000000000
+      internalID: -8857040798168427857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 152
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d4ed2871db9f10800000000000000
+      internalID: 2277644350662169645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_113
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 152
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14485dfc9b595280800000000000000
+      internalID: -9054104846028225508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_114
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 154
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da493b43e29172430800000000000000
+      internalID: 3758000100307342509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_115
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 152
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baff8184780f82ea0800000000000000
+      internalID: -5897199248220815445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_116
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 152
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b2d73377575e8f0800000000000000
+      internalID: -511873827811284191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_117
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 154
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ddc5b527bcd8bb0800000000000000
+      internalID: -4932062324881302122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc72ba20f8f67760800000000000000
+      internalID: 7455419943550614712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af1add56665c350800000000000000
+      internalID: 6036343463256128064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_120
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 132
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d14246dd9856330800000000000000
+      internalID: 3703517852542967184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41e6a886e0311620800000000000000
+      internalID: 2743027414738592075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_122
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dcf73f99383e840800000000000000
+      internalID: 5252186287682604370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 140
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191131db598874f90800000000000000
+      internalID: -6969451721628905071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_124
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 136
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed43b0f2f3162a10800000000000000
+      internalID: 1884215428242427365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_125
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 143
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbe013ab951f6a90800000000000000
+      internalID: -7318607111253857338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 127
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b026fa3050be80800000000000000
+      internalID: -8164937910255044256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_127
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 130
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f79d7e534ad5320800000000000000
+      internalID: 2548373515591581476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_128
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 128
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e414c6b1102c60800000000000000
+      internalID: 7791246832022382984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_129
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 130
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32db1a03ec151c50800000000000000
+      internalID: 6635241387453043259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_130
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 128
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eadc9adab87bdd0800000000000000
+      internalID: -2470352292594995696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_131
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 130
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4d30b7a578a0c90800000000000000
+      internalID: -7202795831345031937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0ae73c991eb0290800000000000000
+      internalID: -7922991068902153993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 48
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca53abca8fcb5e770800000000000000
+      internalID: 8639519236415960492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_134
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7935d7bcdd0f060f0800000000000000
+      internalID: -1125635071450197097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_135
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0206cbad94e34c0800000000000000
+      internalID: -4305922989907500855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_136
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc43829907cbee0800000000000000
+      internalID: -1243995593954243733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0e39c09d8fa3580800000000000000
+      internalID: -8846484906913308464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_138
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 47
+        width: 26
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5ca95c1ea297860800000000000000
+      internalID: 7528095401297757601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ee107375daea920800000000000000
+      internalID: 3003528591599333000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_140
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec06103ac17969490800000000000000
+      internalID: -7739832760339963698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_141
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 106
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94ddaed72a963f90800000000000000
+      internalID: -6974217476906298209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_142
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 104
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464df9bcb5f03bc40800000000000000
+      internalID: 5526778054646420580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_143
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 106
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a4e6470befa160800000000000000
+      internalID: 7039103159090061536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_144
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 68
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0cf11901dd6ba10800000000000000
+      internalID: 1924968953971458218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_145
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 87
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b50639a4de043a0800000000000000
+      internalID: -6683080942461887723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_146
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af84933ea20371f0800000000000000
+      internalID: -1048491341034254425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_147
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b985502688fdb0800000000000000
+      internalID: -4757905532884764549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_148
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a8a194ca1b1e30800000000000000
+      internalID: 4475200086282381402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_149
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 73
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085da3c9dc393ec90800000000000000
+      internalID: -7141702072780794496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_150
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 76
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841a177314ff8f3a0800000000000000
+      internalID: -6631269795734904504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_151
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 84
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d69041d67395d220800000000000000
+      internalID: 2510074505855014608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_152
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc560d1c09fc536a0800000000000000
+      internalID: -6470037069013948981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 36
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e257ac44f6eec1ed0800000000000000
+      internalID: -2441814736278751954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_154
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 55
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce6901c4f393250800000000000000
+      internalID: 5924836380710989053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_155
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 36
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1482db78e0b78920800000000000000
+      internalID: 2992554989967279131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_156
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 41
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce3970677f6074a0800000000000000
+      internalID: -6597650895587426623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_157
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 55
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905ba28ce41ee8130800000000000000
+      internalID: 3571039283033322761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_158
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 17
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fa62a3e7633b1b0800000000000000
+      internalID: -5642105992395706592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_159
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387762a5de59219b0800000000000000
+      internalID: -5110857780459833469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_160
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41654b7951ab65af0800000000000000
+      internalID: -407934114328193516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_161
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8227dd1322cc092a0800000000000000
+      internalID: -6732656995681340888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0a643778773120800000000000000
+      internalID: 2393514180346515331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_163
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c35bcb64b672540800000000000000
+      internalID: 4983069464266619971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_164
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 24
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e8df1529e9b3570800000000000000
+      internalID: 8447519877341482573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_165
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 24
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5620b3401dd719c0800000000000000
+      internalID: -3956450685696858530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_166
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 24
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7eb7b11893bd800800000000000000
+      internalID: 638166998877726714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_167
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 16
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c1800902eb02790800000000000000
+      internalID: -7556831127663010797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_168
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 24
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882f91e0d6455360800000000000000
+      internalID: 7157705045727717517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_169
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 16
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ec4f3cf4afac740800000000000000
+      internalID: 5173222342485397087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_170
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cb47341d775d270800000000000000
+      internalID: 8274651631026748422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_171
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676eccc5e343fc520800000000000000
+      internalID: 2724453742031988342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_172
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e752cc599f5f5e0800000000000000
+      internalID: -1876319247959491065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_173
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ab8335e1c2c4d0800000000000000
+      internalID: -3115714802030500249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_174
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cb16c4aad117ad0800000000000000
+      internalID: -2706349283809837999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_175
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35751fb11469503e0800000000000000
+      internalID: -2088097645830514861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_176
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11648d9a13f505c00800000000000000
+      internalID: 887313793499547153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_177
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90909fdeba318f430800000000000000
+      internalID: 3816822313349351689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_178
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db87cff371d189c0800000000000000
+      internalID: -3926627103947650092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_179
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae619e4cc1ee92f0800000000000000
+      internalID: -964085002602975577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_180
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075f32f0820fa52f0800000000000000
+      internalID: -983209513783659152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_181
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd49a5ea55355aa50800000000000000
+      internalID: 6531718462033269981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_182
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b633e6335d3f420800000000000000
+      internalID: 2662706221575007004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_183
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042f490720b00580800000000000000
+      internalID: -8862890384958741499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_184
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38bfefce891e51d0800000000000000
+      internalID: -3360220170807166914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_185
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07dc125e02ac75e0800000000000000
+      internalID: -1910473959521069299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_186
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b421cd45d54ac4cb0800000000000000
+      internalID: -4878343575586467253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d08e5c342e1b80800000000000000
+      internalID: -8422254411434110525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130bde418422827c0800000000000000
+      internalID: -4095986168109354959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_189
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50bfbda04cd732b0800000000000000
+      internalID: -5604769040888254372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_190
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a51ceb4dc83f5c0800000000000000
+      internalID: -4182844783535760886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_191
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 16
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0789fcc5704640800000000000000
+      internalID: 5062175504384593112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_192
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba50363369a5abc0800000000000000
+      internalID: -3772422869276927300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_193
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5eb1a73c2b0afb0800000000000000
+      internalID: -4638511063554595419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_194
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1072a8f0b2f8dc0800000000000000
+      internalID: -3634639028522384906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_195
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150f1c6deed271300800000000000000
+      internalID: 222697210406629457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_196
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3ec140d86c687a0800000000000000
+      internalID: -6375189913534667845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_197
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2692eb1f4560c70800000000000000
+      internalID: 8936923907817562799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_198
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaf0060dd6160120800000000000000
+      internalID: 2379614591656196780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_199
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c0637b6c334630800000000000000
+      internalID: 3910035333682610935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_200
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 8
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1368a22ae889c580800000000000000
+      internalID: -8806357057161108705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_201
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f29c1e1132c4ac0800000000000000
+      internalID: -3869679420108624025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_202
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d619864a1be7350800000000000000
+      internalID: 6016441471900675385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_203
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2666b8b9ebf855770800000000000000
+      internalID: 8598937112349992546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_204
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 9
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f9b021108eb300800000000000000
+      internalID: 269793838740664473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_205
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd643c5b7a302f7e0800000000000000
+      internalID: -1733318887740324132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c93410de59f8cc0800000000000000
+      internalID: -3706579123141632934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_207
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460f4f1136ab0640800000000000000
+      internalID: 5047310537307653697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_208
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c18306475d75f30800000000000000
+      internalID: 4564351443170499585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_209
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0e1bd8c9beb590800000000000000
+      internalID: -7656478044162486469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_210
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5338c005e3cfcff0800000000000000
+      internalID: -13576885530774692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_211
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ab9c219e24dca30800000000000000
+      internalID: 4237116393235528306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_212
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75407ec66568bf000800000000000000
+      internalID: 70797924906763351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_213
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505209f053c27cc20800000000000000
+      internalID: 3226596264440243461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_214
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7006cacf8e4be50800000000000000
+      internalID: 6824335507294521306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dream-Catcher-sky_215
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1f3ad2f0cb83600800000000000000
+      internalID: 448314936299614624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

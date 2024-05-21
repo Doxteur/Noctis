@@ -12,6 +12,8 @@ public class Movement : MonoBehaviour
     public Rigidbody2D rb;
     private AnimationScript anim;
 
+    public int HeartCollected = 0;
+
     [Space]
     [Header("Stats")]
     public float speed = 10;
